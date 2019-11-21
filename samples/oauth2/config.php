@@ -23,6 +23,6 @@
 
 // Change the variables below into your own application's client ID & client secret which you can find on https://api.keyyo.com/developers/apps
 
-$client_id     = '<your client ID goes here>';
-$client_secret = '<your client secret goes here>';
+$client_id     = '5dd58844693ec';
+$client_secret = '7dfa342b9ad0e5e021cb775b';
 $redirect_uri  = 'https://domain.com/callback';
